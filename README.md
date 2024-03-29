@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### You can reach me via [r12944038@csie.ntu.edu.tw](mailto:r12944038@csie.ntu.edu.tw)
-![LeetCode Stats](https://leetcode.card.workers.dev/harrylord?theme=dark&font=baloo&extension=null?cache=0))
+![LeetCode Stats](https://leetcard.jacoblin.cool/Harrylord?theme=dark&font=MuseoModerno&ext=heatmap)
