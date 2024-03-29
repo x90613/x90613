@@ -1,5 +1,3 @@
-### Hi👋
-
 <!--
 **x90613/x90613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+You can reach me via [r12944038@csie.ntu.edu.tw](mailto:r12944038@csie.ntu.edu.tw)
 ![LeetCode Stats](https://leetcode.card.workers.dev/harrylord?theme=dark&font=baloo&extension=null)
