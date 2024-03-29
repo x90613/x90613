@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###[My Website](https://x90613-github-io.vercel.app/)
+### [My Website](https://x90613-github-io.vercel.app/)
 You can reach me via [r12944038@csie.ntu.edu.tw](mailto:r12944038@csie.ntu.edu.tw)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/HarryLord?theme=dark&font=NTR&ext=heatmap)
