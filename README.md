@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 ---
 ### 📊 Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Harry0613?theme=dark&font=NTR&ext=heatmap)
+
+Recommend trying [**Cometode**](https://github.com/Cometline/cometode) if you want to practice Data structure & Algorithm(the core building blocks of computer science) with spaced repetition (SM-2, same as Anki).
+
+Lives in your menu bar for quick access — click, review, back to work.
 ---
 ### 📫 Reach Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:x90613@gmail.com)
