@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 - 📚 Sharpening my skills in **Data Structures & Algorithms**
 - 💬 Interested in **Linux Kernel, C, systems programming and DSA**
 ### 🐧 Kernel Contributions
-- [`[PATCH 1/3] livepatch: Fail object initialization on duplicate patched function`](https://lore.kernel.org/live-patching/20260830173343.52759-2-x90613@gmail.com/) `🔄 in review (v4)`
+- [`[PATCH 1/3] livepatch: Fail object initialization on duplicate patched function`](https://lore.kernel.org/live-patching/20260830173343.52759-2-x90613@gmail.com/) ![status](https://img.shields.io/badge/status-in%20review-yellow)
   - Livepatch currently allows patching the same underlying function twice through two aliased symbols within a single object, which makes the redirection via `klp_ops`'s `func_stack` ambiguous. This patch detects and rejects that case during object initialization.
-- [`[PATCH] selftests/livepatch: Test rejection of aliased symbols in one object`](https://lore.kernel.org/live-patching/20260905155507.273262-1-x90613@gmail.com/) `🔄 in review`
+- [`[PATCH] selftests/livepatch: Test rejection of aliased symbols in one object`](https://lore.kernel.org/live-patching/20260905155507.273262-1-x90613@gmail.com/) ![status](https://img.shields.io/badge/status-in%20review-yellow)
   - Adds a selftest verifying that patching aliased symbols within one object is correctly rejected.
   
 ---
